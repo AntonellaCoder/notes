@@ -24,3 +24,9 @@ Hello, these are the things I know and I use.
 
 ### Git
 
+# Games I play
+
+### Friv (there are tons of games)
+
+### I play fireboy and watergirl
+
