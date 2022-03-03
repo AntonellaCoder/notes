@@ -1,4 +1,4 @@
-# Antonella Cieza's Notes
+# Antonella's Notes
 
 Hello, these are the things I know and I use.
 
